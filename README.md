@@ -1,2 +1,2 @@
 # First-Code-HelloWord
-Primeiro código feito em .Por - Bootcamp - Primeira turma GenerationBrasil CENTRO -
+Primeiro código feito em .Por - Bootcamp - Primeira turma JS GenerationBrasil CENTRO -
